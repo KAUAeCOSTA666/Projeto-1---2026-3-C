@@ -1,0 +1,24 @@
+body {background-color: lightblue;
+}
+h1 {text-align: center;
+   color:cornflowerblue ;
+ border-style: dotted;
+ border-color: darkcyan;
+ border-radius: 12%;
+   font-size: 400%;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+h2 {color: green;
+text-align: center;
+}
+h3 {color: green;
+text-align: center;
+}
+#ima1 {margin-left: 22%;
+border-color: aqua;
+border-style:groove;
+border-width: 17px;
+
+}
